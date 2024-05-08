@@ -6,7 +6,10 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/girisEkran.unity
+    path: "Assets/Scenes/OyunG\u0130ris.unity"
+    guid: 4e9cf80f486708b4d966684c9ea29bd8
+  - enabled: 1
+    path: Assets/Scenes/LevelMenu.unity
     guid: 009273bfd6596a045b658c0f252dc231
   - enabled: 1
     path: Assets/Scenes/Game.unity
@@ -14,4 +17,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/CharacterSelection.unity
     guid: 52b14f88553f9fa4286f14c7f860ef82
+  - enabled: 1
+    path: Assets/Scenes/level2.unity
+    guid: 9f16528c79810444598ddfc5ca8c3b52
+  - enabled: 0
+    path: Assets/Scenes/level1.unity
+    guid: 735931e096664234d919fecb8a38b71b
   m_configObjects: {}
