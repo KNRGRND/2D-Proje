@@ -19,10 +19,6 @@ public class OyunGiris : MonoBehaviour
 
 
 
-    public void quitbuton()
-    {
-        Application.Quit();
-    }
 
 
     }
